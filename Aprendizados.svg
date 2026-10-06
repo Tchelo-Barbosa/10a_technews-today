@@ -1,0 +1,21 @@
+<svg fill="none" viewBox="0 0 800 70" width="600" height="60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Definição das cores do Degradê -->
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF9AE3" />   
+      <stop offset="100%" stop-color="#6CE2FE" /> 
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 700;
+      font-size: 36px;
+      fill: url(#gradient);
+    }
+  </style>
+
+  <!-- O Texto em si -->
+  <text x="0" y="48" class="title">Aprendizados (SENAI)</text>
+</svg>
