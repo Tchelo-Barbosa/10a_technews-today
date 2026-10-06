@@ -6,18 +6,27 @@ Projeto desenvolvido como parte de uma atividade prática no curso de **Desenvol
 
 <br>
 
-## Demonstração
+<p align="left">
+  <img src="./Demonstração.svg" alt="Demonstração">
+</p>
+
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/de8c22e1-7f3f-4b8a-80b6-db3e4c4e4296" />
+
 
 <br><br>
 
-## Tecnologias Utilizadas
+<p align="left">
+  <img src="./Tecnologias.svg" alt="Tecnologias">
+</p>
 
 * **HTML5:** Estruturação semântica utilizando tags como `<header>`, `<main>`, `<article>`, `<section>`, `<details>`, `<form>` e `<footer>`.
 * **CSS3:** Estilização moderna utilizando variáveis CSS, layout responsivo com CSS Grid, animações de *hover* e efeito *glassmorphism*.
 
 <br><br>
 
-##  Funcionalidades
+<p align="left">
+  <img src="./Funcionalidades.svg" alt="Funcionalidades">
+</p>
 
 * **Cabeçalho com Efeito Glassmorphism:** Layout fixo com visual moderno e efeito translúcido.
 * **Artigo em Destaque:** Card interativo que inclui o elemento `<details>` para expandir e ler mais informações.
@@ -27,7 +36,9 @@ Projeto desenvolvido como parte de uma atividade prática no curso de **Desenvol
 
 <br><br>
                     
-##  Aprendizados (SENAI)
+<p align="left">
+  <img src="./Aprendizados.svg" alt="Aprendizados (SENAI)">
+</p>
 
 Nesta atividade foram praticados conceitos como:
 
