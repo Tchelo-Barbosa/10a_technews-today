@@ -1,4 +1,6 @@
-#  TechNews Today 
+<p align="center">
+  <img src="./titulo.svg" alt="TechNews Today">
+</p>
 
 Projeto desenvolvido como parte de uma atividade prática no curso de **Desenvolvimento de Sistemas do SENAI**. O objetivo principal é construir um portal moderno de notícias sobre tecnologia utilizando **HTML5 semântico** e estilização avançada com **CSS3**.
 
